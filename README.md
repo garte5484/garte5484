@@ -4,8 +4,8 @@
 
 Hello, I am garte5484, ai-assisted developer
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garte5484&show_icons=true&locale=en" alt="top-langs" /></p>
+<p><img align="left" src="https://ghstats.dev/api/profile?username=garte5484&type=profile&theme=dark" alt="profile card" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=garte5484&show_icons=true&locale=en" alt="profile stats" /></p>
+<p>&nbsp;<img align="right" src="https://ghstats.dev/api/profile?username=garte5484&type=contributions&theme=dark" alt="contribution card" /></p>
 
 </div>
