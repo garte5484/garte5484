@@ -4,8 +4,8 @@
 
 Hello, I am garte5484, ai-assisted developer
 
-<p><img align="left" width="45%" min-width="100px" src="https://ghstats.dev/api/profile?username=garte5484&type=profile&theme=dark" alt="profile card" /></p>
+<img src="https://ghstats.dev/api/profile?username=garte5484&type=profile&theme=dark" alt="profile card" />
 
-<p>&nbsp;<img align="right" width="45%" min-width="100px" src="https://ghstats.dev/api/profile?username=garte5484&type=contributions&theme=dark" alt="contribution card" /></p>
+<img src="https://ghstats.dev/api/profile?username=garte5484&type=contributions&theme=dark" alt="contribution card" />
 
 </div>
